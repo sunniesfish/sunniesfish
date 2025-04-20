@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!%20It's%20sunniesfish!&animation=twinkling
 )
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunniesfish)](https://github.com/sunniesfish/github-readme-stats)
 <!--
 **sunniesfish/sunniesfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
