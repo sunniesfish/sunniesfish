@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120?text=Hello?%20It's%20sunniesfish!&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!%20It's%20sunniesfish!&animation=twinkling
+)
 
 <!--
 **sunniesfish/sunniesfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
